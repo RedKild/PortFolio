@@ -1,0 +1,33 @@
+PORTFOLIO
+
+1/ Presentation, qui suis je ? Qu'est ce que j'ai fais (parcours, diplômes, colmpétences informatiques,  apprentissage autodidacte…)
+
+2/ Rubrique CV
+
+3/ Presentation du CREPS/ PARCOURS/ MOTIVATION
+
+4/ Projet perso en cours (Appli web pour cours part, portfolio…)
+
+---------------------------------------------------------------------------------------------------------------
+
+p1.PAGE D'ACCUEIL : 
+	présentation rapide
+	onglets navigation vers les autres pages ?
+
+p2.CV :
+	CV (juste voir ? possibilité de dl ?)
+	Photo de moi ?
+
+p3.COMPETENCES :
+	jauges + notes ? 
+	diagramme en toile ? 
+	1 compétences pro + 1 perso compétences perso ?
+
+p4.PROJETS :
+	Liens git portfolio + autres projets 
+
+p5.CONTACTS :
+	Formulaire style site yo ?
+
+----------------------------------------------------------------------------------------------------------------
+

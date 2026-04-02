@@ -1,0 +1,18 @@
+p1.PAGE D'ACCUEIL : 
+	présentation rapide
+	onglets navigation vers les autres pages ?
+
+p2.CV :
+	CV (juste voir ? possibilité de dl ?)
+	Photo de moi ?
+
+p3.COMPETENCES :
+	jauges + notes ? 
+	diagramme en toile ? 
+	1 compétences pro + 1 perso compétences perso ?
+
+p4.PROJETS :
+	Liens git portfolio + autres projets 
+
+p5.CONTACTS :
+	Formulaire style site yo ?

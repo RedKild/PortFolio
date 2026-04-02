@@ -12,7 +12,7 @@ db.init_app(app)
 # 🔥 Enregistre les routes
 app.register_blueprint(docs_bp)
 
-@app.route('/index')
+@app.route('/')
 def home():
     return render_template('index.html')
 
